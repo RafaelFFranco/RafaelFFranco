@@ -1,7 +1,4 @@
-# algoritmos-e-estruturas-de-dados-i
-Repo Algoritmos e Estruturas de Dados I
-
-# Perfil do Estudante de Engenharia de Software - PUC Minas
+# Estudante de Engenharia de Software - PUC Minas
 
 Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Engenharia de Software na PUC Minas, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.
 
@@ -13,7 +10,7 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 
 ## Habilidades
 
-- **Linguagens de Programação:** Java, Python, C#
+- **Linguagens de Programação: Python, C#, C, Css, HTML, 
 - **Desenvolvimento Web:** HTML, CSS, JavaScript, React
 - **Banco de Dados:** MySQL, MongoDB
 - **Metodologias:** Scrum, Kanban
@@ -38,6 +35,6 @@ Breve descrição do projeto e suas tecnologias principais.
 
 - **E-mail:** [Seu E-mail]
 - **Twitter:** [Seu Perfil no Twitter]
-- **LinkedIn:** [Seu Perfil no LinkedIn]
+- **LinkedIn: https://www.linkedin.com/in/rafael-franco-8128342b5/
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊

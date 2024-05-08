@@ -6,34 +6,25 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 
 - 👨‍🎓 **Graduação**: Engenharia de Software na PUC Minas.
 - 🌱 **Atividades Atuais**: Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.
-- 💼 **Experiência Profissional**: [Detalhes sobre experiências anteriores ou projetos relevantes, se aplicável]
 
 ## Habilidades
 
-- **Linguagens de Programação: Python, C#, C, Css, HTML, 
+- **Linguagens de Programação: Python básico, C, Css, HTML, Js
 - **Desenvolvimento Web:** HTML, CSS, Js
-- **Banco de Dados:** MySQL, MongoDB
-- **Metodologias:** Scrum, Kanban
-- **Ferramentas:** Git, VS Code, Eclipse
+- **Metodologias:** Scrum
+- **Ferramentas:** Git, VS Code, Eclipse, CodeBlocks
 
 ## Projetos Destacados
 
-### [Nome do Projeto]
+### BookTrade (Em andamento)
 
-Breve descrição do projeto e suas tecnologias principais.
+- BookTrade é um projeto para facilitar a troca de livros entre usuários.
+Muitas vezes uma pessoa tem o interesse em uma obra, porém não tem condições
+para comprar uma cópia nova, o BookTrade conecta duas pessoas com essa dificuldade
+e fornece para elas uma possibilidade de negociação sem taxas.
 
-### [Nome do Projeto]
 
-Breve descrição do projeto e suas tecnologias principais.
 
-## Contribuições
-
-- [Nome do Projeto/Open Source]: Breve descrição da contribuição.
-
-## Contato
-
-- **E-mail:** [Seu E-mail]
-- **Twitter:** [Seu Perfil no Twitter]
 - **LinkedIn: https://www.linkedin.com/in/rafael-franco-8128342b5/
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊

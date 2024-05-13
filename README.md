@@ -18,10 +18,12 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 
 ### BookTrade (Em andamento)
 
-- BookTrade é um projeto para facilitar a troca de livros entre usuários.
-Muitas vezes uma pessoa tem o interesse em uma obra, porém não tem condições
-para comprar uma cópia nova, o BookTrade conecta duas pessoas com essa dificuldade
-e fornece para elas uma possibilidade de negociação sem taxas.
+- Contexto: “BookTrade”
+  BookTrade é um projeto para facilitar a negociação de livros entre usuários.
+ Muitas vezes, uma pessoa tem interesse em uma obra, porém não tem condições para comprar uma cópia nova.
+ O BookTrade conecta esses dois indivíduos e possibilita a negociação,
+ fornecendo uma opção de troca de títulos entre os usuários, sem taxas adicionais.
+
 
 
 

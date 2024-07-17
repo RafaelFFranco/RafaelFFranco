@@ -16,7 +16,7 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 
 ## Projetos Destacados
 
-### BookTrade (Em andamento)
+### BookTrade 
 
 - Contexto: “BookTrade”
   BookTrade é um projeto para facilitar a negociação de livros entre usuários.

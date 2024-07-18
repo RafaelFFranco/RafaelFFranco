@@ -78,7 +78,7 @@
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Aramuni's Spotify Data
  
- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=rafaelfariafranco20&count={20})
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=rafaelfariafranco20" alt="Data Card for Spotify">
 </summary>
  
  

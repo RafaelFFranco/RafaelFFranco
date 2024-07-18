@@ -35,11 +35,8 @@
  ## Sobre mim:
 
  
- <div>
-  <img height="20" alt="GIF" src="https://github.com/RafaelFFranco/RafaelFFranco/blob/main/img/skills.gif"/>
-  <h2>Linguagens</h2>
- </div>
- 
+<img height="20" alt="GIF" src="https://github.com/RafaelFFranco/RafaelFFranco/blob/main/img/skills.gif"/>&nbsp<h2>Linguagens</h2>
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

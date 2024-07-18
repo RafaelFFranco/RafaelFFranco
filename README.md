@@ -23,13 +23,11 @@
 </td>
 </tr>
  
-
 </table>
 
 </div>
-<div align="justify">
- Adoro resolver desafios envolvendo a tecnologia <br>
-<i><b>Olá</b> :wave:, sou o <code>Rafael</code>, tenho 18 anos, moro em BH e sou programador desde os 17 anos de idade. Atualmente sou estudante de Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">Puc Minas.</a>
+<p align = "center"> Adoro resolver desafios envolvendo a tecnologia <br>
+<i><b>Olá</b> :wave:, sou o <code>Rafael</code>, tenho 18 anos, moro em BH e sou programador desde os 17 anos de idade. Atualmente sou estudante de Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">Puc Minas.</a></p>
 </div>
 
 -----

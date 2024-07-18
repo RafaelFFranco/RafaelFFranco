@@ -76,7 +76,11 @@
 
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Aramuni's Spotify Data</summary>
+<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Aramuni's Spotify Data
  
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rafaelfariafranco20&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+ ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=rafaelfariafranco20&count={20})
+</summary>
+ 
+ 
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rafaelfariafranco20&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
 </div>

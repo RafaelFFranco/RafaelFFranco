@@ -80,7 +80,8 @@
  
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=rafaelfariafranco20" alt="Data Card for Spotify">
 
- 
+
+ ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
  
 
 </div>

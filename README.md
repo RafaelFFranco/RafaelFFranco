@@ -33,7 +33,7 @@
 -----
 
  ## Sobre mim:
-<h2>Linguagens</h2>
+<p>Linguagens</p>
 <img height="20" alt="GIF" src="https://github.com/RafaelFFranco/RafaelFFranco/blob/main/img/skills.gif"/>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

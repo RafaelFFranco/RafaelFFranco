@@ -30,32 +30,10 @@
 <i><b>Olá</b> :wave:, sou o <code>Rafael</code>, tenho 18 anos, moro em BH e sou programador desde os 17 anos de idade. Atualmente sou estudante de Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">Puc Minas.</a></p>
 </div>
 
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
-
-<div align="center">
-<table>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-<tr>
-<td>
-<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaopauloaramuni&theme=github_dark"/> -->
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelFFranco&theme=github_dark"/>
-</td>
-<td>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaelFFranco&theme=github_dark"/>
-</td>
-<td>
-<img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelFFranco&theme=github_dark"/>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-</table>
-</div>
-
-</div>
+<div  align="center">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=RafaelFFranco&theme=tokyonight&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=RafaelFFranco&show_icons=true&theme=tokyonight&layout=compact" />
+ </div>
 
 
 -----

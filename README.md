@@ -79,7 +79,7 @@
 
 <img height="20" alt="GIF" src="https://github.com/RafaelFFranco/RafaelFFranco/blob/main/img/spotify.gif"/> Rafael's Spotify Data
  
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=rafaelfaria20" alt="Data Card for Spotify">
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=rafaelfariafrancoi20" alt="Data Card for Spotify">
 
 
 

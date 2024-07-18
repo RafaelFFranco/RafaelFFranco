@@ -70,6 +70,10 @@
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 ## Sobre Mim:
+<div align = "center">
+ 
+![](https://komarev.com/ghpvc/?username=RafaelFFranco&color=blueviolet) 
+</div>
 
 
 ## Spotify
@@ -81,7 +85,7 @@
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=rafaelfariafranco20" alt="Data Card for Spotify">
 
 
-![](https://komarev.com/ghpvc/?username=RafaelFFranco&color=blueviolet)
+
  
 
 </div>

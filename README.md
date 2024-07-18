@@ -6,9 +6,7 @@
 
 <div align="center">
 <table>
-<tr>
- <td align="center" colspan="11"></td>
-</tr> 
+
 <tr>
 <td><a href="https://github.com/RafaelFFranco" target="_blank"><img src="https://github.com/RafaelFFranco/RafaelFFranco/blob/main/img/github2.png" width="50px" height="50px"/></a>
 </td>

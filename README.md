@@ -76,12 +76,9 @@
 
 <div>
 
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Aramuni's Spotify Data
+<img height="20" alt="GIF" src="https://github.com/RafaelFFranco/RafaelFFranco/blob/main/img/spotify.gif"/> Rafael's Spotify Data
  
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=rafaelfariafranco20" alt="Data Card for Spotify">
-
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rafaelfariafranco20&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=rafaelfariafranco20)
 
  
  

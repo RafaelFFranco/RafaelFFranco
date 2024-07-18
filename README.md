@@ -30,8 +30,7 @@
 <i><b>Olá</b> :wave:, sou o <code>Rafael</code>, tenho 18 anos, moro em BH e sou programador desde os 17 anos de idade. Atualmente sou estudante de Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">Puc Minas.</a></p>
 </div>
 
-<div>
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelFFranco&theme=github_dark"/>
+<div style="height= 200px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=RafaelFFranco&theme=tokyonight&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=RafaelFFranco&show_icons=true&theme=tokyonight&layout=compact" />
 

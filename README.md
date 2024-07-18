@@ -34,6 +34,7 @@
 
  ## Sobre mim:
 
+ ## Tecnologias:
  
 <img height="20" alt="GIF" src="https://github.com/RafaelFFranco/RafaelFFranco/blob/main/img/skills.gif"/>&nbsp; Linguagens
 

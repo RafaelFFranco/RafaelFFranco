@@ -32,7 +32,7 @@
 
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=RafaelFFranco&theme=tokyonight&mode=weekly" />
+<img width=""50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=RafaelFFranco&theme=tokyonight&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=RafaelFFranco&show_icons=true&theme=tokyonight&layout=compact" />
  </div>
 

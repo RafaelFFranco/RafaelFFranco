@@ -35,7 +35,7 @@
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/> #### Sobre mim:
 
 <div align="justify">
-</div>
+
 ## Skills
 Tecnologias:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)

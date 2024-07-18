@@ -19,9 +19,6 @@
 <td><a href="https://www.instagram.com/rafael_franco__/" target="_blank"><img src="https://github.com/RafaelFFranco/RafaelFFranco/blob/main/img/insta2.png" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.linkedin.com/in/rafael-franco-8128342b5/" target="_blank"><img src="https://github.com/RafaelFFranco/RafaelFFranco/blob/main/img/linkedin2.png" width="50px" height="50px"/></a>
-</td>
-<td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/lattes2.png?raw=true" width="50px" height="50px"/></a>
-</td>
 <td><a href="#" target="_blank"><img src="https://github.com/RafaelFFranco/RafaelFFranco/blob/main/img/calendar2.png" width="50px" height="50px"/></a>
 </td>
 </tr>

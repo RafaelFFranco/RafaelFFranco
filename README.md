@@ -33,8 +33,8 @@
 
 <div align="center" style="margin-bottom:100px; display: flex; justify-content: center; gap: 10px;">
   <img width="40%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=RafaelFFranco&theme=tokyonight&mode=weekly" />
-  <img width="30%" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=RafaelFFranco&show_icons=true&theme=tokyonight&layout=compact" />
-  <img width="40%" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelFFranco&theme=github_dark" />
+  <img width="20%" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=RafaelFFranco&show_icons=true&theme=tokyonight&layout=compact" />
+  <img width="20%" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelFFranco&theme=github_dark" />
 </div>
 
 

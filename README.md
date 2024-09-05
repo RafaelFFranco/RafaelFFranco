@@ -31,7 +31,7 @@
 </div>
 
 
-<div  align="center" style="margin-bottom:100px">
+<div  align="center" style="margin-bottom:100px" style ="diplay-flex" >
 <img  align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=RafaelFFranco&theme=tokyonight&mode=weekly" />
 <img  align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=RafaelFFranco&show_icons=true&theme=tokyonight&layout=compact" />
 <img  align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelFFranco&theme=github_dark" />

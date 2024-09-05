@@ -32,9 +32,9 @@
 
 
 <div  align="center" style="margin-bottom:100px">
-<img width="48%" align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=RafaelFFranco&theme=tokyonight&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=RafaelFFranco&show_icons=true&theme=tokyonight&layout=compact" />
-<img width=40% align="center src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RafaelFFranco&theme=github_dark" />
+<img  align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=RafaelFFranco&theme=tokyonight&mode=weekly" />
+<img  align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=RafaelFFranco&show_icons=true&theme=tokyonight&layout=compact" />
+<img  align="center src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RafaelFFranco&theme=github_dark" />
  </div>
 
 

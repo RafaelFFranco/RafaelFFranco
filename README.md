@@ -87,7 +87,7 @@
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=rafaelfariafranco20" alt="Data Card for Spotify">
 </a>
 
-
+<img alt="GIF" src="https://github.com/RafaelFFranco/RafaelFFranco/blob/main/img/github-user-contribution.svg" />
 
  
 

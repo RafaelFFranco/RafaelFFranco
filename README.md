@@ -32,11 +32,12 @@
 
 
 <div align="center" style="margin-bottom:100px; display: flex; justify-content: center; gap: 10px;">
- 
+
+  <img width="" src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelFFranco&theme=tokyonight&hide_border=false" />
   <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api?username=RafaelFFranco&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
   <img width="32%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFFranco&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />
-  <br>
-  <img width="" src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelFFranco&theme=tokyonight&hide_border=false" />
+  
+  
   
 </div>
 

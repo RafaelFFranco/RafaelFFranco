@@ -32,20 +32,10 @@
 
 
 <div align="center" style="margin-bottom:100px; display: flex; justify-content: center; gap: 10px;">
-
- ![RafaelFFranco's Stats](https://github-readme-stats.vercel.app/api?username=RafaelFFranco&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
- ![RafaelFFranco's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RafaelFFranco&theme=tokyonight&hide_border=false)
- ![RafaelFFranco's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFFranco&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
  
-  <img width="28%" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelFFranco&theme=github_dark" />
-  <img width="28%" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=RafaelFFranco&show_icons=true&theme=tokyonight&layout=compact" />
-  <img src="![RafaelFFranco's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFFranco&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)" />
-
-
-
-
-http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelFFranco&theme=github_dark
-https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=RafaelFFranco&show_icons=true&theme=tokyonight&layout=compact
+  <img width="28%" align="center" src="https://github-readme-stats.vercel.app/api?username=RafaelFFranco&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
+  <img width="28%" align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFFranco&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelFFranco&theme=tokyonight&hide_border=false" />
   
 </div>
 

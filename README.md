@@ -34,7 +34,7 @@
 <div align="center" style="margin-bottom:100px; display: flex; justify-content: center; gap: 10px;">
   <img width="28%" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelFFranco&theme=github_dark" />
   <img width="28%" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=RafaelFFranco&show_icons=true&theme=tokyonight&layout=compact" />
-  <img src="https://streak-stats.demolab.com?user=RafaelFFranco&theme=tokyonight&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" />
+  <img src="https://streak-stats.demolab.com/?user=RafaelFFranco&theme=tokyonight&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" />
 
   
 </div>

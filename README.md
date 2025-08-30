@@ -1,7 +1,4 @@
 <div>
- style{
- a: text-decoration: none;
- }
 <img align="center" alt="Header" src="https://github.com/RafaelFFranco/RafaelFFranco/blob/main/img/github-header-image%20(1).png"/>
 </div>
 
@@ -85,7 +82,7 @@ Ferramentas
 
 ## Templates de Diagramas (UML)
 🎨 Figma
-- [Diagrama de Casos de Uso](https://www.figma.com/templates/use-case-template/)
+- <a>[Diagrama de Casos de Uso](https://www.figma.com/templates/use-case-template/) </a>
 - [Digrama de Classes](https://www.figma.com/community/widget/1223307422838321651)
 
 ## Spotify

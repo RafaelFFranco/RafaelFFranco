@@ -83,7 +83,7 @@ Ferramentas
 ## Templates de Diagramas (UML)
 🎨 Figma
 - <p style="text-decoration: none">[Diagrama de Casos de Uso](https://www.figma.com/templates/use-case-template/)</p> 
-- <p style="text-decoration: none">[Digrama de Classes](https://www.figma.com/community/widget/1223307422838321651))</p> 
+- <p style="text-decoration: none">[Digrama de Classes](https://www.figma.com/community/widget/1223307422838321651)</p> 
 
 ## Spotify
 

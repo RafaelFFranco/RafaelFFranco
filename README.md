@@ -44,7 +44,7 @@
 
 -----
 
- ## Tecnologias:
+ ## Tecnologias
  
 <img width=20  alt="GIF" src="https://github.com/RafaelFFranco/RafaelFFranco/blob/main/img/skills.gif"/>
 Linguagens
@@ -78,7 +78,7 @@ Ferramentas
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
-## Sobre Mim:
+## Sobre Mim
 
 ## Templates de Diagramas (UML)
 🎨 Figma

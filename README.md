@@ -82,6 +82,9 @@ Ferramentas
 
 ## Templates de Diagramas (UML)
 🎨 Figma
+-<a href="https://www.figma.com/templates/use-case-template/" style="text-decoration: none;">
+  Diagrama de Casos de Uso
+</a>
 - [Diagrama de Casos de Uso](https://www.figma.com/templates/use-case-template/)
 - [Digrama de Classes](https://www.figma.com/community/widget/1223307422838321651)
 

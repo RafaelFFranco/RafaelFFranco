@@ -82,7 +82,8 @@ Ferramentas
 
 ## Templates e exemplos de Diagramas de Pacotes (UML)
 🎨 Figma
-- [Casos de Uso](https://www.figma.com/templates/use-case-template/)
+- [Diagrama de Casos de Uso](https://www.figma.com/templates/use-case-template/)
+- [Digrama de Classes](https://www.figma.com/community/widget/1223307422838321651)
 
 ## Spotify
 

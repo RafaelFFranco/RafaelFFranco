@@ -84,6 +84,7 @@ Ferramentas
 🎨🖌️ Figma
 - [Diagrama de Casos de Uso](https://www.figma.com/templates/use-case-template/)
 - [Digrama de Classes](https://www.figma.com/community/widget/1223307422838321651)
+- [Diagrama de Componentes](https://www.figma.com/community/file/989635781221754599)
 
 🎨🖌️ Visual Paradigm
 - [Diagrama de Pacotes](https://online.visual-paradigm.com/app/diagrams/#diagram:proj=0&type=PackageDiagram&width=11&height=8.5&unit=inch)
